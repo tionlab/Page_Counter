@@ -3,11 +3,11 @@
 
 ## FAST START
 <tr><td colspan=2 align="center">
-</td></tr>
 <tr><td align="right">
 <a href="">Window</a>
 </td><td align="center">Last release. Open page.exe</td></tr>
 </table>
+
 ## PIP install
 
 - pip install ursina
