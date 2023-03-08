@@ -2,9 +2,9 @@
 책 페이지, 몇개고! Count the page! Using ursina!
 
 ## FAST START
-
+No install require!
 #### <tr><td align="center">
-#### <a href="">Window (page.exe)</a>
+#### <a href="https://github.com/tionlab/Page_Counter/releases/tag/Window">Window (page.exe)</a>
 #### </td><td align="center">Last release. Open page.exe</td></tr>
  
 ## PIP install
