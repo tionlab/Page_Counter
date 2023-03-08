@@ -16,3 +16,11 @@
 <p align="center">
 <img src="https://i.ibb.co/XVbjmHX/image.png"></img>
 </p>
+
+## Alert
+
+- Python 3.xx Require!! (Working on 3.9.6)
+
+## PIP install
+
+- pip install ursina
