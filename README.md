@@ -19,7 +19,7 @@
 
 ## Alert
 
-- Python 3.xx Require!! (Working on 3.9.6)
+- Python 3.xx Require!! (Tested on 3.9.6)
 
 ## PIP install
 
