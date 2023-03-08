@@ -6,11 +6,7 @@ No install require!
 #### <tr><td align="center">
 #### <a href="https://github.com/tionlab/Page_Counter/releases/tag/Window">Window (page.exe)</a>
 #### </td><td align="center">Last release. Open page.exe</td></tr>
- 
-## PIP install
 
-- pip install ursina
- 
 ## ScreenShot
 
 <p align="center">
