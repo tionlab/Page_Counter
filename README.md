@@ -3,9 +3,9 @@
 
 ## FAST START
 
-###### <tr><td align="center">
-###### <a href="">Window (page.exe)</a>
-###### </td><td align="center">Last release. Open page.exe</td></tr>
+#### <tr><td align="center">
+#### <a href="">Window (page.exe)</a>
+#### </td><td align="center">Last release. Open page.exe</td></tr>
  
 ## PIP install
 
